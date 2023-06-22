@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mhtal\\OneDrive\\Masaüstü\\SignalRApp\\SignalRApp\\SignalRApp.csproj": {}
+    "C:\\Users\\mhtal\\OneDrive\\Masaüstü\\SignalRApp\\SignalRApp\\SignalRApp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mhtal\\OneDrive\\Masaüstü\\SignalRApp\\SignalRApp\\SignalRApp.csproj": {
+    "C:\\Users\\mhtal\\OneDrive\\Masaüstü\\SignalRApp\\SignalRApp\\SignalRApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mhtal\\OneDrive\\Masaüstü\\SignalRApp\\SignalRApp\\SignalRApp.csproj",
+        "projectUniqueName": "C:\\Users\\mhtal\\OneDrive\\Masaüstü\\SignalRApp\\SignalRApp\\SignalRApp.csproj",
         "projectName": "SignalRApp",
-        "projectPath": "c:\\Users\\mhtal\\OneDrive\\Masaüstü\\SignalRApp\\SignalRApp\\SignalRApp.csproj",
+        "projectPath": "C:\\Users\\mhtal\\OneDrive\\Masaüstü\\SignalRApp\\SignalRApp\\SignalRApp.csproj",
         "packagesPath": "C:\\Users\\mhtal\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mhtal\\OneDrive\\Masaüstü\\SignalRApp\\SignalRApp\\obj\\",
+        "outputPath": "C:\\Users\\mhtal\\OneDrive\\Masaüstü\\SignalRApp\\SignalRApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mhtal\\AppData\\Roaming\\NuGet\\NuGet.Config"
