@@ -22,10 +22,26 @@ public class UserHub : Hub
     }
 
 
+/*
+    //To be able to use SEND method on the client to NOT send notification
     public async Task NewWindowLoaded()
     {
         TotalViews++;
         //sending the new state or the changes to all clients who is connected to hub
         await Clients.All.SendAsync("updateTotalViews", TotalViews);
     } 
+*/
+
+    //To be able to use SEND method on the client to NOT send notification
+    public async Task<string> NewWindowLoaded(string name)
+    {
+        TotalViews++;
+        //sending the new state or the changes to all clients who is connected to hub
+        await Clients.All.SendAsync("updateTotalViews", TotalViews);
+        return $"total views from {name} = {TotalViews}";
+    } 
+
+
+
+
 }
