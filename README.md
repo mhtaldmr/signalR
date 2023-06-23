@@ -8,7 +8,7 @@ SignalR  is a library that simplifies the process of adding real-time web functi
 Also, it gives you oppourtunity to control the real-time notifications to send which clients. Server can send the notifications with different options like All, Except(userIds),Client(clientid),Others, Groups, OtherinGroups.. etc.
 
 
-<img src="https://github.com/mhtaldmr/signalR/blob/main/images/signalR.PNG" alt="signalR"/> 
+<img src="https://github.com/mhtaldmr/signalR/blob/master/images/signalR.PNG" alt="signalR"/> 
 
 
 ### What I have used so far:
@@ -36,7 +36,7 @@ Also, it gives you oppourtunity to control the real-time notifications to send w
 
 |           1 Client            | 2 Client                                                 
 |-------------------------------|-------------------------------
-|<img src="https://github.com/mhtaldmr/signalR/blob/main/images/page1.PNG" alt="page1"/>   |<img src="https://github.com/mhtaldmr/signalR/blob/main/images/page2.PNG" alt="page2"/>       
+|<img src="https://github.com/mhtaldmr/signalR/blob/master/images/page1.PNG" alt="page1"/>   |<img src="https://github.com/mhtaldmr/signalR/blob/master/images/page2.PNG" alt="page2"/>       
 
      
 ---
