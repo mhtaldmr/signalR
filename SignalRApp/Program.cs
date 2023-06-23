@@ -43,7 +43,7 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 //Adding the Hub endpoint
-app.MapHub<UserHub>("/hub/userCount");
+app.MapHub<UserHub>("/hubs/userCount");
 
 
 app.MapRazorPages();

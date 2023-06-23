@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
+      "Id": "C:\\Users\\mhtal\\OneDrive\\Masaüstü\\SignalRApp\\SignalRApp\\wwwroot\\js\\userCount.js",
+      "PackagePath": "staticwebassets\\js\\userCount.js"
+    },
+    {
       "Id": "C:\\Users\\mhtal\\OneDrive\\Masaüstü\\SignalRApp\\SignalRApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },

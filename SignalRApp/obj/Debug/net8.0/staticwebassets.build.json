@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YvkOm5u87P83R64KLHcRJTYlYwM6CrsxWJ1VcNjdFjw=",
+  "Hash": "yuYhH0LmkI0pNU7g0gwTbz9afpyOYIfN73A9XU0SHug=",
   "Source": "SignalRApp",
   "BasePath": "_content/SignalRApp",
   "Mode": "Default",
@@ -1137,6 +1137,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\mhtal\\OneDrive\\Masaüstü\\SignalRApp\\SignalRApp\\wwwroot\\js\\userCount.js",
+      "SourceId": "SignalRApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mhtal\\OneDrive\\Masaüstü\\SignalRApp\\SignalRApp\\wwwroot\\",
+      "BasePath": "_content/SignalRApp",
+      "RelativePath": "js/userCount.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\userCount.js"
     },
     {
       "Identity": "C:\\Users\\mhtal\\OneDrive\\Masaüstü\\SignalRApp\\SignalRApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",

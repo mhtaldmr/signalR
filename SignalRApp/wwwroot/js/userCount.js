@@ -19,7 +19,8 @@ function newWindowLoadOnClient() {
 function fulfilled(){
     //do sth if its OK
     console.log("Connection to UserHub Successful!");
-}
+    newWindowLoadOnClient();
+} 
 
 //if start is rejected
 function rejected(){
