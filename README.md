@@ -28,7 +28,7 @@ Also, it gives you oppourtunity to control the real-time notifications to send w
 ---
 
 
-## m
+## Usage
 - This app is showing how many users view the page by how many times. If the client refresh the page, the total user view will be increased by 1 and other users will see it in real-time. Also, if another client open the page user count will be increased and their user view also increase the total user count.
 - In the upper section, users can vote for the items. If the users select one of them, the counter will increase also. It doesnt matter which client increased.
 
