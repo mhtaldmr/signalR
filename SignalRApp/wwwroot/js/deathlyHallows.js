@@ -23,7 +23,7 @@ function fulfilled(){
     connectionDeathlyHallows.invoke("GetRaceResults").then((raceCounter) =>{
         cloakSpan.innerText =  raceCounter.cloak.toString();
         stoneSpan.innerText = raceCounter.stone.toString();
-        wamtSpan.innerText = raceCounter.want.toString();
+        wandSpan.innerText = raceCounter.wand.toString();
     });
     //do sth if its OK
     console.log("Connection to UserHub Successful!");
