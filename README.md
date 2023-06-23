@@ -15,7 +15,7 @@ Also, it gives you oppourtunity to control the real-time notifications to send w
 - .Net8 MVC Application
 - Microsoft.AspNetCore.SignalR package.
 
-## Installation and Usage
+## Installation
 
 - To get the project :
 ```
