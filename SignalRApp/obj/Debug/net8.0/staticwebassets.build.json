@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yuYhH0LmkI0pNU7g0gwTbz9afpyOYIfN73A9XU0SHug=",
+  "Hash": "60SQi6pzfXtfFd7/Smq4i3nwUAWCq1YeFJHsIzn6CoQ=",
   "Source": "SignalRApp",
   "BasePath": "_content/SignalRApp",
   "Mode": "Default",
@@ -1103,6 +1103,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\mhtal\\OneDrive\\Masaüstü\\SignalRApp\\SignalRApp\\wwwroot\\js\\deathlyHallows.js",
+      "SourceId": "SignalRApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mhtal\\OneDrive\\Masaüstü\\SignalRApp\\SignalRApp\\wwwroot\\",
+      "BasePath": "_content/SignalRApp",
+      "RelativePath": "js/deathlyHallows.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\deathlyHallows.js"
     },
     {
       "Identity": "C:\\Users\\mhtal\\OneDrive\\Masaüstü\\SignalRApp\\SignalRApp\\wwwroot\\js\\signalr.js",

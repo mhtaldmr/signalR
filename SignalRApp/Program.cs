@@ -42,9 +42,9 @@ app.UseAuthorization();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
-//Adding the Hub endpoint
+//Adding the Hub endpoints
 app.MapHub<UserHub>("/hubs/userCount");
-
+app.MapHub<DeathlyHallowsHub>("/hubs/deathlyHallows");
 
 app.MapRazorPages();
 
