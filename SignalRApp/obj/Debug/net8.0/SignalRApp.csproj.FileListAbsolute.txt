@@ -72,3 +72,4 @@ C:\Users\mhtal\OneDrive\Masaüstü\SignalRApp\SignalRApp\obj\Debug\net8.0\refint
 C:\Users\mhtal\OneDrive\Masaüstü\SignalRApp\SignalRApp\obj\Debug\net8.0\SignalRApp.pdb
 C:\Users\mhtal\OneDrive\Masaüstü\SignalRApp\SignalRApp\obj\Debug\net8.0\SignalRApp.genruntimeconfig.cache
 C:\Users\mhtal\OneDrive\Masaüstü\SignalRApp\SignalRApp\obj\Debug\net8.0\ref\SignalRApp.dll
+C:\Users\mhtal\OneDrive\Masaüstü\SignalRApp\SignalRApp\bin\Debug\net8.0\libman.json
